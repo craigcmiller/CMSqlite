@@ -1,2 +1,3 @@
 # CMSqlite
-Mac SQLite editor (discontinued)
+
+SQLite query editor for macOS. Unlikely to see any further development.
